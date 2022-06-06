@@ -1,0 +1,25 @@
+.image{
+    width: 150;
+    height: 150;
+}
+
+p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+}
+
+.test_image_and_result{
+    background-color: gray;
+}
+h5{
+    background-color: whitesmoke;
+    letter-spacing: 1px;
+    font-size: larger;
+}
